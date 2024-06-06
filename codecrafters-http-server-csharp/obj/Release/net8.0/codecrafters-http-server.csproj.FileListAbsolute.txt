@@ -1,0 +1,14 @@
+C:\Users\DK\codecrafters-http-server-csharp\bin\Release\net8.0\codecrafters-http-server.exe
+C:\Users\DK\codecrafters-http-server-csharp\bin\Release\net8.0\codecrafters-http-server.deps.json
+C:\Users\DK\codecrafters-http-server-csharp\bin\Release\net8.0\codecrafters-http-server.runtimeconfig.json
+C:\Users\DK\codecrafters-http-server-csharp\bin\Release\net8.0\codecrafters-http-server.dll
+C:\Users\DK\codecrafters-http-server-csharp\bin\Release\net8.0\codecrafters-http-server.pdb
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.AssemblyInfoInputs.cache
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.AssemblyInfo.cs
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.csproj.CoreCompileInputs.cache
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.dll
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\refint\codecrafters-http-server.dll
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.pdb
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\codecrafters-http-server.genruntimeconfig.cache
+C:\Users\DK\codecrafters-http-server-csharp\obj\Release\net8.0\ref\codecrafters-http-server.dll
